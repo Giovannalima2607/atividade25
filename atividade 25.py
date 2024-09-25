@@ -12,5 +12,7 @@ print("A terceira é: ",nota3)
 print("A quarta é: ",nota4)
 print("A quinta é: ",nota5)
 print("A média final é: ",media)
-if media >= 7:
-  print("Aprovado")
+if media == 7:
+  print("quantos foram aprovados")
+
+
